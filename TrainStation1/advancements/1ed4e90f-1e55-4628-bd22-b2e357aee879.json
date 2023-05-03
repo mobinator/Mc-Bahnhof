@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_chest": "2023-05-03 13:27:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2023-05-02 15:05:34 +0200"
@@ -1454,6 +1460,12 @@
   "createdeco:recipes/createdeco.bricks/mossy_red_long_bricks_slab_vert": {
     "criteria": {
       "has_the_recipe": "2023-05-02 15:30:37 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_piston": {
+    "criteria": {
+      "has_0_redstone": "2023-05-03 13:15:12 +0200"
     },
     "done": true
   },
@@ -10337,6 +10349,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/andesite_pedestal": {
+    "criteria": {
+      "has_585_polished_andesite": "2023-05-03 13:31:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2023-05-02 15:30:38 +0200"
@@ -16175,6 +16193,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_714_glass": "2023-05-03 14:44:04 +0200"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/mossy_blue_long_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2023-05-02 15:30:37 +0200"
@@ -16646,6 +16670,12 @@
   "createdeco:recipes/createdeco.bricks/cracked_worn_short_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2023-05-02 15:30:39 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_compass": {
+    "criteria": {
+      "has_4_redstone": "2023-05-03 13:15:12 +0200"
     },
     "done": true
   },
@@ -18173,6 +18203,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/andesite_lantern": {
+    "criteria": {
+      "has_613_andesite_slab": "2023-05-03 14:12:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_the_recipe": "2023-05-02 15:30:37 +0200"
@@ -19307,6 +19343,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/iron_bulb_lantern": {
+    "criteria": {
+      "has_627_chain": "2023-05-03 14:28:48 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/copper/waxed_oxidized_copper_tile_stairs_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2023-05-02 15:30:39 +0200"
@@ -19490,6 +19532,12 @@
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
       "has_the_recipe": "2023-05-02 15:30:38 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_hopper": {
+    "criteria": {
+      "has_tag_chest": "2023-05-03 13:27:38 +0200"
     },
     "done": true
   },
